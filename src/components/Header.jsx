@@ -19,7 +19,7 @@ export default function Header() {
         transition={{ duration: 0.8, delay: 0.5, ease: "easeInOut" }}
         className='hero-content'
       >
-        <h1>PIZZA TRUk</h1>
+        <h1>PIZZA TRUCk</h1>
         <p>Somos tu pizzería en movimiento</p>
       </motion.div>
     </header>
